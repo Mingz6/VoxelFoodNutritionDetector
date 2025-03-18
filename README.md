@@ -1,3 +1,6 @@
+TODO:
+[] - Reduce Size from ipynb
+
 # fifthy one
 
 ## Installtion Guid:
@@ -6,6 +9,10 @@ conda remove --name <NotNeededEnv> --all
 conda create --name FifthOne python=3.11 
 conda activate FifthOne
 pip install fiftyone
+
+
+https://docs.voxel51.com/user_guide/config.html
+
 
 ## Table of Contents
 - [fifthy one](#fifth-one)
