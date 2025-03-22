@@ -4,7 +4,7 @@
 
 .DS_Store
 
-HfToken.py
+config.json
 
 __pycache__
 images
